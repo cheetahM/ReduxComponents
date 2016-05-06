@@ -1,0 +1,24 @@
+{
+  "name": "redux-components",
+  "version": "1.0.0",
+  "description": "creating components using reactjs, redux and es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheetahM/ReduxComponents.git"
+  },
+  "keywords": [
+    "reactjs",
+    "redux",
+    "es6"
+  ],
+  "author": "[{name:\"Jyoti Nanda\",email:\"j_k_nanda@hotmail.com\"},{name: \"Chetan Meshram\",email:\"meshram.chetan@gmail.com\"}]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheetahM/ReduxComponents/issues"
+  },
+  "homepage": "https://github.com/cheetahM/ReduxComponents#readme"
+}
